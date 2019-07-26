@@ -307,7 +307,7 @@ font:
   global:
     external: true
     family: Lato
-    size:
+    size: 18
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6).
   # Fallback to `global` font settings.
@@ -320,7 +320,7 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    family: Monaco
 
   # Font settings for Logo.
   # Fallback to `global` font settings.
@@ -332,8 +332,8 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
-    size:
+    family: Monaco
+    size: 18
 
 
 # ---------------------------------------------------------------
@@ -342,8 +342,8 @@ font:
 
 # MathJax Support
 mathjax:
-  enable: false
-  per_page: false
+  enable: true
+  perpage: false
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
