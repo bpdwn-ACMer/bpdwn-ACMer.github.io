@@ -1,4 +1,4 @@
-# ===============================================================
+exicd# ===============================================================
 # ========================= ATTENTION! ==========================
 # ===============================================================
 # NexT repository is moving here: https://github.com/theme-next
@@ -293,7 +293,7 @@ highlight_theme: normal
 # Arial | Tahoma | Helvetica | Times New Roman | Courier New | Verdana | Georgia | Palatino | Garamond | Comic Sans MS | Trebuchet MS
 # ---------------------------------------------------------------
 font:
-  enable: true
+  enable: false
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default).
   host:
